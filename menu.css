@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(209, 102, 102) 10%, rgb(114, 211, 114) 70%);
+}
+button{
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    size: 200px;
+}
+h2{
+    color: rgb(21, 21, 37);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(rgb(196, 56, 56)60%, rgb(71, 7, 7)70%);
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+img{
+    width: 100px;
+    margin-left: 250px;
+}
+button{
+    margin-left:350px;
+}

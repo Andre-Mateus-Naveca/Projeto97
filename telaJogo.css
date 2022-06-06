@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(rgb(107, 107, 189)10%, rgb(85, 201, 85)50%);
+    text-align: center;
+}
+#ImgChegada{
+    height: 20%;
+    width: 10%;
+    margin-bottom: 400px;
+    margin-right: -900px;
+}
+#ImgQuadrado1{
+margin-top: 50px;
+margin-left: 50px;
+margin-bottom: 100px;
+
+}   
+#ImgQuadrado2{
+    margin-top: 450px;
+    margin-left: 250px;
+    margin-bottom: 800px;
+    
+    }
+    #ImgQuadrado3{
+        margin-top: 350px;
+        margin-left: 250px;
+        margin-bottom: 1000px;
+        
+        }
+        #ImgQuadrado4{
+            margin-top: 350px;
+            margin-left: 150px;
+            margin-bottom:500px;
+            
+            }
+            #ImgQuadrado5{
+                margin-top: 550px;
+                margin-left: 250px;
+                margin-bottom: 400px;
+                
+                }
+#buttonVoltar{
+    margin-top: -550px;
+}
+.ImagensQuadrados{
+    width: 10%;
+height: 20%;
+}
